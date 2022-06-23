@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MCwind</h1>
 <h3 align="center">A passionate noob developer from Hong Kong</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcwindtim&label=Profile%20views&color=0e75b6&style=flat" alt="mcwindtim" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@MCwind?theme=rule34" alt="mcwindtim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcwindtim" alt="mcwindtim" /></a> </p>
 
