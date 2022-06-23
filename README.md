@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **node.js**
 
-- 📫 How to reach me **ryancheng5542@gmail.com**
+- 📫 You can reach me by sending email to **ryancheng5542@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
