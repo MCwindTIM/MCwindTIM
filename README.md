@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MCwind</h1>
-<h3 align="center">A passionate noob developer from Hong Kong</h3>
+<h3 align="center">A passionate rookie developer from Hong Kong</h3>
 
 <p align="center"> <img src="https://count.getloli.com/get/@MCwind?theme=rule34" alt="mcwindtim" /> </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCwindTIM&show_icons=true&theme=omni" alt="mcwindtim" /></p>
