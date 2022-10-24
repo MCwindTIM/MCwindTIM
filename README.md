@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MCwind</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate rookie developer from Hong Kong</h3>
 
 <p align="center"> <img src="https://count.getloli.com/get/@MCwind?theme=rule34" alt="mcwindtim" /> </p>
