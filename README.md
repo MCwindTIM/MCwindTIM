@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate rookie developer from Hong Kong</h3>
 
-<p align="center"> <img src="https://count.getloli.com/get/@MCwind?theme=rule34" alt="mcwindtim" /> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCwindTIM&show_icons=true&theme=omni" alt="mcwindtim" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcwindtim&theme=onedark" alt="mcwindtim" /></a> </p>
-
 - 🔭 I’m currently working on **Network Infrastructure**
 
 - 🤝 I’m looking for help with **my life**
