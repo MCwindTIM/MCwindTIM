@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate rookie developer from Hong Kong</h3>
 
 <p align="center"> <img src="https://count.getloli.com/get/@MCwind?theme=rule34" alt="mcwindtim" /> </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCwindTIM&show_icons=true&theme=omni" alt="mcwindtim" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcwindtim&theme=onedark" alt="mcwindtim" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Network Infrastructure**
 
 - 🤝 I’m looking for help with **my life**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/smilewind5542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smilewind5542" height="30" width="40" /></a>
+<a href="mailto:mcwind@mcwind.cloud" target="blank"><img align="center"height="30" width="40" />@</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
